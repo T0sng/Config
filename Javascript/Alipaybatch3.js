@@ -1,0 +1,10 @@
+var headers = $response.headers;
+let obj = JSON.parse($response.body['resultObj'] );
+headers['Content-Type'] = 'application/json;charset=UTF-8';
+$done({headers});
+obj ['batchRecordResponse']['bizScene'] = "MESSAGE_BATCH_PAY";
+ obj ['batchRecordResponse']['accessChannel'] = "openapi";
+ obj ['batchRecordResponse']['properties']['IS_REMAIN_DETAIL'] = "true";
+  obj ['batchRecordResponse']['properties']['accessType'] = "openapi";
+   obj ['batchRecordResponse']['properties']['IS_REMAIN_DETAIL'] = "true";
+$done({ body: JSON.stringify(obj) });
