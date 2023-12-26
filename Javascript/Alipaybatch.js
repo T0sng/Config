@@ -2,18 +2,18 @@ var body = JSON.parse($response.body);
 var obj = {
     "success": true,
     "resultObj": {
-        "maxMonthTransferCount": "10000000",
-        "maxMonthTransferAmount": "800000000.00",
+        "maxMonthTransferCount": "1000000000000",
+        "maxMonthTransferAmount": "80000000000000.00",
         "minSingleTransferAmount": "1",
-        "taobaoMaxSingleTransferAmount": "500000.00",
-        "alipayTradeNoMaxSingleTransferAmount": "500000.00",
-        "maxDayTransferAmount": "300000000.00",
-        "maxSingleTransferAmount": "10000000.00",
-        "maxTransferCount": "3000000",
+        "taobaoMaxSingleTransferAmount": "5000000000.00",
+        "alipayTradeNoMaxSingleTransferAmount": "5000000000.00",
+        "maxDayTransferAmount": "3000000000000.00",
+        "maxSingleTransferAmount": "100000000000.00",
+        "maxTransferCount": "30000000",
         "subBizSceneDTOs": [
             {
-                "subBizSceneDesc": "和美团拼了",
-                "subBizScene": "PAYMENTGOODS"
+                "subBizSceneDesc": "妈的，跟美国，俄国，意大利，英国，德国，法国，蒙古，智利，巴西，韩国，朝鲜，日本，菲律宾，印尼，印度，巴基斯坦，泰国，加拿大，墨西哥，南非拼了!",
+                "subBizScene": "OTHER"
             },
             {
                 "subBizSceneDesc": "和日本拼了",
