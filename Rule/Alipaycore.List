@@ -1,0 +1,14 @@
+URL-REGEX,^https\:\/\/aut.*\.alipay\.com.*$
+URL-REGEX,^https\:\/\/cashier.*\.alipay\.com.*$
+URL-REGEX,^https\:\/\/.*\.alipay\.com\/mgw\.htm$
+DOMAIN,openapi.alipay.com
+DOMAIN,passport.alibaba.com
+DOMAIN,market.alipay.com
+DOMAIN,escrowexprod.alipay.com
+DOMAIN,securitycore.alipay.com
+DOMAIN,csmobiledata.alipay.com
+DOMAIN,seccliprod.alipay.com
+DOMAIN,securitycore.alipay.com
+DOMAIN,passport.alibaba.com
+DOMAIN,bizfundprod.alipay.com
+DOMAIN-SUFFIX,sinopayment.com.cn
