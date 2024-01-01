@@ -1,7 +1,6 @@
 DOMAIN,help.alipay.com
 DOMAIN,tfsimg.alipay.com
 DOMAIN,kcart.alipay.com
-DOMAIN,alipayobjects.com
 DOMAIN,img.alipay.com
 DOMAIN,mmstat.com
 DOMAIN,mrchportalweb.alipay.com
@@ -30,6 +29,8 @@ DOMAIN,cf.aliyun.com
 DOMAIN,collect.alipay.com
 DOMAIN,shanghu.alipay.com
 DOMAIN,yuque.antfin.com
+DOMAIN,openhome.alipay.com
+DOMAIN,lab.alipay.com
 DOMAIN,encrypted-tbn0.gstatic.com
 DOMAIN,encrypted-tbn1.gstatic.com
 DOMAIN,encrypted-tbn2.gstatic.com
@@ -45,3 +46,4 @@ DOMAIN-SUFFIX,alipaydns.com
 DOMAIN-SUFFIX,alipaylog.com
 DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,luohanacademy.com
+DOMAIN-SUFFIX,alipayobjects.com
