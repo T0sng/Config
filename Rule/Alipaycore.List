@@ -22,7 +22,7 @@ DOMAIN,securitycenter.alipay.com
 DOMAIN,escrowexprod.alipay.com
 DOMAIN,uemprod.alipay.com
 DOMAIN,excashier.alipay.com
-DOMAIN,enterpriseportal.alipay.com:443
+DOMAIN,enterpriseportal.alipay.com
 DOMAIN,accorderexprod.alipay.com
 DOMAIN,securitycore.alipay.com
 DOMAIN,csmobiledata.alipay.com
