@@ -23,9 +23,12 @@ DOMAIN,ynuf.alipay.com
 DOMAIN,rds.alipay.com
 DOMAIN,hb.alipay.com
 DOMAIN,app.alipay.com
+DOMAIN,m.taobao.com
 DOMAIN,e.alipay.com
 DOMAIN,p.alipay.com
+DOMAIN,cf.aliyun.com
 DOMAIN,collect.alipay.com
+DOMAIN,shanghu.alipay.com
 DOMAIN,yuque.antfin.com
 DOMAIN,encrypted-tbn0.gstatic.com
 DOMAIN,encrypted-tbn1.gstatic.com
@@ -36,3 +39,9 @@ DOMAIN,miniselfop.alipay.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,insights.1688.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alipaydev.com
+DOMAIN-SUFFIX,alipaydns.com
+DOMAIN-SUFFIX,alipaylog.com
+DOMAIN-SUFFIX,ifaa.org.cn
+DOMAIN-SUFFIX,luohanacademy.com
