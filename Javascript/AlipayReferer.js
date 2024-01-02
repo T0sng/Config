@@ -1,4 +1,4 @@
 let headers = $request.headers;
 
-headers['referer'] = 'shenghuo.alipay.com/index.html';
+headers['referer'] = 'https://shenghuo.alipay.com/send/payment/fill.htm';
 $done({headers});
