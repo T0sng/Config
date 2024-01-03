@@ -1,3 +1,3 @@
 *:not([class*="ico"]):not([id*="ico"]):not(i):not(ins):not(s) {
-font-family:"Helvetica Neue", "LXGW WenkaiGB",  "PingFangSC-Medium"!important;
+font-family:"Helvetica Neue", "PingFangSC-Medium"!important;
 }
