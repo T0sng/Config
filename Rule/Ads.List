@@ -1,0 +1,118 @@
+# Taobao
+        DOMAIN-SUFFIX,acjs.aliyun.com
+        DOMAIN-SUFFIX,adash*.m.taobao.com
+        DOMAIN-SUFFIX,adash*.ut.taobao.com
+        DOMAIN-SUFFIX,adsh.m.taobao.com
+        DOMAIN-SUFFIX,afp.adchina.com
+        DOMAIN-SUFFIX,afp.alicdn.com
+        DOMAIN-SUFFIX,agoodm.m.taobao.com
+        DOMAIN-SUFFIX,agoodm.wapa.taobao.com
+        DOMAIN-SUFFIX,alipaylog.com
+        DOMAIN-SUFFIX,amdc.alipay.com
+        DOMAIN-SUFFIX,amdc.m.taobao.com
+        DOMAIN-SUFFIX,api.wapa.taobao.com
+        DOMAIN-SUFFIX,api.waptest.taobao.com
+        DOMAIN-SUFFIX,apoll.m.taobao.com
+        DOMAIN-SUFFIX,appdownload.alicdn.com
+        DOMAIN-SUFFIX,atanx*.alicdn.com
+        DOMAIN-SUFFIX,cdn0.mobmore.com
+        DOMAIN-SUFFIX,click.aliyun.com
+        DOMAIN-SUFFIX,cm.ipinyou.com
+        DOMAIN-SUFFIX,cm.mlt01.com
+        DOMAIN-SUFFIX,err.taobao.com
+        DOMAIN-SUFFIX,ex.mobmore.com
+        DOMAIN-SUFFIX,ex.puata.info
+        DOMAIN-SUFFIX,feedback.whalecloud.com
+        DOMAIN-SUFFIX,ff.win.taobao.com
+        DOMAIN-SUFFIX,fm.p0y.cn
+        DOMAIN-SUFFIX,g.click.taobao.com
+        DOMAIN-SUFFIX,g.tbcdn.cn
+        DOMAIN-SUFFIX,gma.alicdn.com
+        DOMAIN-SUFFIX,hydra.alibaba.com
+        DOMAIN-SUFFIX,hz.pre.tbusergw.taobao.net
+        DOMAIN-SUFFIX,hz.tbusergw.taobao.net
+        DOMAIN-SUFFIX,i.ipinyou.com
+        DOMAIN-SUFFIX,init.phpwind.com
+        DOMAIN-SUFFIX,intl.wapa.taobao.com
+        DOMAIN-SUFFIX,intl.waptest.taobao.com
+        DOMAIN-SUFFIX,jxlog.istreamsche.com
+        DOMAIN-SUFFIX,log.umtrack.com
+        DOMAIN-SUFFIX,m.intl.taobao.com
+        DOMAIN-SUFFIX,match.p4p.1688.com
+        DOMAIN-SUFFIX,material.istreamsche.com
+        DOMAIN-SUFFIX,mlt01.com
+        DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
+        DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
+        DOMAIN-SUFFIX,osfota.cdn.aliyun.com
+        DOMAIN-SUFFIX,pindao.huoban.taobao.com
+        DOMAIN-SUFFIX,push.wandoujia.com
+        DOMAIN-SUFFIX,re.m.taobao.com
+        DOMAIN-SUFFIX,re.taobao.com
+        DOMAIN-SUFFIX,rj.m.taobao.com
+        DOMAIN-SUFFIX,sdkinit.taobao.com
+        DOMAIN-SUFFIX,show.re.taobao.com
+        DOMAIN-SUFFIX,simba.m.taobao.com
+        DOMAIN-SUFFIX,stats.ipinyou.com
+        DOMAIN-SUFFIX,strip.taobaocdn.com
+        DOMAIN-SUFFIX,tanxlog.istreamsche.com
+        DOMAIN-SUFFIX,tejia.taobao.com
+        DOMAIN-SUFFIX,temai.taobao.com
+        DOMAIN-SUFFIX,tongji.linezing.com
+        DOMAIN-SUFFIX,tyh.taobao.com
+        DOMAIN-SUFFIX,userimg.qunar.com
+        DOMAIN-SUFFIX,w.m.taobao.com
+        yiliao.hupan.com
+        URL-REGEX,^https?:\/\/gw\.alicdn\.com\/tfs\/.+?\d{4}-\d{4}\/[a-z]{3}$
+        URL-REGEX,^https?:\/\/gw\.alicdn\.com\/tfs\/TB1.+?750-\d{4}
+        URL-REGEX,^https?:\/\/heic\.alicdn\.com\/tps\/i4\/.+?\.jpg_1200x1200q90\.jpg_\.heic$
+        URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.tmall\.wireless
+        URL-REGEX,^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/.+\.jpg_(9\d{2}|\d{4})
+        URL-REGEX,^https?:\/\/asp\.cntv\.myalicdn\.com\/.+?\?maxbr=850
+        URL-REGEX,^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/.+\d{4}-\d{4}\.jpg_(9\d{2}|\d{4})
+        URL-REGEX,^https?:\/\/gw\.alicdn\.com\/tfs\/.+?\d{4}-\d{4}\/[a-z]{3}$
+        # > 百度网盘
+        DOMAIN-SUFFIX,hpplay.cn
+        DOMAIN,open.e.kuaishou.com
+        DOMAIN,sofire.baidu.com
+        URL-REGEX,^https?:\/\/pan\.baidu\.com\/pmall\/points\/balance
+        # URL-REGEX,^https?:\/\/pan\.baidu\.com\/aipic\/image\/guidelist
+        URL-REGEX,^https?:\/\/pan\.baidu\.com\/ndbs\/nd_bundle(.*)\.js$
+        URL-REGEX,^https?:\/\/pan\.baidu\.com\/api\/checkthumbnailstatus
+        # URL-REGEX,^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/dss\/device
+        # URL-REGEX,^https?:\/\/panpic\.baidu\.com\/rest\/2\.0\/pcs\/thumbnail
+        # URL-REGEX,^https?:\/\/pan\.baidu\.com\/api\/account\/getprivilege
+        URL-REGEX,^https?:\/\/pan\.baidu\.com\/wfm\/jnqp$
+        URL-REGEX,^https?:\/\/ali-ec\.static\.yximgs\.com\/kos\/.+\/hybrid\/ad-union-feed-template
+        URL-REGEX,^https?:\/\/ndstatic\.cdn\.bcebos\.com\/activity\/static\/js\/chunk-vendors\.+\.js$
+        URL-REGEX,^https:\/\/update\.pan\.baidu\.com\/statistics
+        URL-REGEX,^http:\/\/rp\.hpplay\.cn\/logouts
+        URL-REGEX,^https?:\/\/.+\/rest\/.+\/pcs\/adx
+        URL-REGEX,^https?:\/\/pan\.baidu\.com\/api\/useractivity\/activity
+        URL-REGEX,^https?:\/\/pan\.baidu\.com\/act\/.+\/bchannel\/list
+        URL-REGEX,^https?:\/\/sofire\.baidu\.com\/ios\/.+
+        URL-REGEX,^https?:\/\/ndstatic\.cdn\.bcebos\.com\/activity\/welfare\/js\/.+\.js
+        URL-REGEX,^https?:\/\/ndstatic\.cdn\.bcebos\.com\/activity\/welfare\/index\.html
+        URL-REGEX,^https?:\/\/pan\.baidu\.com\/pmall\/order\/privilege\/info
+        URL-REGEX,^https?:\/\/staticsns\.cdn\.bcebos\.com\/amis\/.+/banner.png
+        URL-REGEX,^https?:\/\/pan\.baidu\.com\/component\/view\/(1510|1130)\?(vip|from)
+
+        # > 百度贴吧
+        URL-REGEX,^https?+:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule
+        URL-REGEX,^https?+:\/\/c\.tieba\.baidu\.com\/c\/f\/forum\/getAdInfo
+        URL-REGEX,^https?+:\/\/c\.tieba\.baidu\.com\/\w+?\/\w+?\/(?>sync|newRnSync|mlog)
+        URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule
+        URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/f\/forum\/getAdInfo
+        URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/\w+\/\w+\/(sync|newRnSync|mlog)
+        URL-REGEX,^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/\w+\/\w+\/(sync|newRnSync|mlog)
+        URL-REGEX,^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/c\/s\/splashSchedule
+        URL-REGEX,^https:\/\/pn\.baidu\.com\/iad\/.+\.json
+        URL-REGEX,^https:\/\/feed-image\.baidu\.com\/0\/pic\/
+
+        # Adobe
+        DOMAIN-SUFFIX,adobe.io
+
+        # Postman
+        DOMAIN,bifrost-v4.getpostman.com
+
+        #Google
+        DOMAIN,adservice.google.com
