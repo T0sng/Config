@@ -2,11 +2,13 @@ URL-REGEX,^https\:\/\/aut.*\.alipay\.com.*$
 URL-REGEX,^https\:\/\/cashier.*\.alipay\.com.*$
 URL-REGEX,^https\:\/\/.*\.alipay\.com\/mgw\.htm$
 DOMAIN,accorderexprod.alipay.com
-DOMAIN,accounts.alipay.com
 DOMAIN,certify.alipay.com
 DOMAIN,openapi.alipay.com
 DOMAIN,mclient.alipay.com
 DOMAIN,maliprod.alipay.com
+DOMAIN,accounts.taobao.com
+DOMAIN,accounts.alibaba.com
+DOMAIN,accounts.alipay.com
 DOMAIN,110.taobao.com
 DOMAIN,110.alibaba.com
 DOMAIN,110.alipay.com
@@ -16,8 +18,6 @@ DOMAIN,passport.alipay.com
 DOMAIN,mapi.alipay.com
 DOMAIN,epsecuritycenter.alipay.com
 DOMAIN,emembercenter.alipay.com
-DOMAIN,passport.alibaba.com
-DOMAIN,market.alipay.com
 DOMAIN,securitycenter.alipay.com
 DOMAIN,escrowexprod.alipay.com
 DOMAIN,uemprod.alipay.com
