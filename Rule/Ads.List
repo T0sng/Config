@@ -112,7 +112,7 @@
         DOMAIN-SUFFIX,adobe.io
 
         # Postman
-        DOMAIN,bifrost-v4.getpostman.com
+        DOMAIN-SUFFIX,getpostman.com
 
         #Google
         DOMAIN,adservice.google.com
