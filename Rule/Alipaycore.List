@@ -2,6 +2,7 @@ URL-REGEX,^https\:\/\/aut.*\.alipay\.com.*$
 URL-REGEX,^https\:\/\/cashier.*\.alipay\.com.*$
 URL-REGEX,^https\:\/\/.*\.alipay\.com\/mgw\.htm$
 URL-REGEX,^https\:\/\/openapi\.alipay\.com\gateway.do\?.*$
+DOMAIN,cashier.alipay.com
 DOMAIN,accorderexprod.alipay.com
 DOMAIN,certify.alipay.com
 DOMAIN,openapi.alipay.com
