@@ -1,4 +1,5 @@
 # Taobao
+DOMAIN,httpdns.alicdn.com
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash*.m.taobao.com
 DOMAIN-SUFFIX,adash*.ut.taobao.com
