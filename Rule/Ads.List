@@ -1,5 +1,5 @@
 # Taobao
-DOMAIN,httpdns.alicdn.com
+DOMAIN-SUFFIX,ai.m.taobao.com
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash*.m.taobao.com
 DOMAIN-SUFFIX,adash*.ut.taobao.com
@@ -13,6 +13,11 @@ DOMAIN-SUFFIX,amdc.alipay.com
 DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,api.wapa.taobao.com
 DOMAIN-SUFFIX,api.waptest.taobao.com
+DOMAIN-SUFFIX,dsp.simba.taobao.com
+DOMAIN-SUFFIX,m.simba.taobao.com
+DOMAIN-SUFFIX,mclick.simba.taobao.com
+DOMAIN-SUFFIX,re.m.taobao.com
+DOMAIN-SUFFIX,re.taobao.com
 DOMAIN-SUFFIX,apoll.m.taobao.com
 DOMAIN-SUFFIX,appdownload.alicdn.com
 DOMAIN-SUFFIX,atanx*.alicdn.com
@@ -47,9 +52,16 @@ DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
 DOMAIN-SUFFIX,osfota.cdn.aliyun.com
 DOMAIN-SUFFIX,pindao.huoban.taobao.com
 DOMAIN-SUFFIX,push.wandoujia.com
-DOMAIN-SUFFIX,re.m.taobao.com
-DOMAIN-SUFFIX,re.taobao.com
 DOMAIN-SUFFIX,rj.m.taobao.com
+DOMAIN-SUFFIX,re.taotaosou.com
+DOMAIN-SUFFIX,redirect.simba.taobao.com
+DOMAIN-SUFFIX,srd.simba.taobao.com
+DOMAIN-SUFFIX,strip.alicdn.com
+DOMAIN-SUFFIX,temai.taobao.com
+DOMAIN-SUFFIX,textlink.simba.taobao.com
+DOMAIN-SUFFIX,taobaoaliyun.cn
+DOMAIN-SUFFIX,taobaobo5.com
+DOMAIN-SUFFIX,strip.taobaocdn.com
 DOMAIN-SUFFIX,sdkinit.taobao.com
 DOMAIN-SUFFIX,show.re.taobao.com
 DOMAIN-SUFFIX,simba.m.taobao.com
@@ -57,7 +69,8 @@ DOMAIN-SUFFIX,stats.ipinyou.com
 DOMAIN-SUFFIX,strip.taobaocdn.com
 DOMAIN-SUFFIX,tanxlog.istreamsche.com
 DOMAIN-SUFFIX,tejia.taobao.com
-DOMAIN-SUFFIX,temai.taobao.com
+DOMAIN-SUFFIX,ai.taobao.com
+DOMAIN-SUFFIX,alipay.dajiadou6.com
 DOMAIN-SUFFIX,tongji.linezing.com
 DOMAIN-SUFFIX,tyh.taobao.com
 DOMAIN-SUFFIX,userimg.qunar.com
@@ -75,12 +88,12 @@ DOMAIN-SUFFIX,hpplay.cn
 DOMAIN,open.e.kuaishou.com
 DOMAIN,sofire.baidu.com
 URL-REGEX,^https?:\/\/pan\.baidu\.com\/pmall\/points\/balance
-URL-REGEX,^https?:\/\/pan\.baidu\.com\/aipic\/image\/guidelist
+# URL-REGEX,^https?:\/\/pan\.baidu\.com\/aipic\/image\/guidelist
 URL-REGEX,^https?:\/\/pan\.baidu\.com\/ndbs\/nd_bundle(.*)\.js$
 URL-REGEX,^https?:\/\/pan\.baidu\.com\/api\/checkthumbnailstatus
-URL-REGEX,^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/dss\/device
-URL-REGEX,^https?:\/\/panpic\.baidu\.com\/rest\/2\.0\/pcs\/thumbnail
-URL-REGEX,^https?:\/\/pan\.baidu\.com\/api\/account\/getprivilege
+# URL-REGEX,^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/dss\/device
+# URL-REGEX,^https?:\/\/panpic\.baidu\.com\/rest\/2\.0\/pcs\/thumbnail
+# URL-REGEX,^https?:\/\/pan\.baidu\.com\/api\/account\/getprivilege
 URL-REGEX,^https?:\/\/pan\.baidu\.com\/wfm\/jnqp$
 URL-REGEX,^https?:\/\/ali-ec\.static\.yximgs\.com\/kos\/.+\/hybrid\/ad-union-feed-template
 URL-REGEX,^https?:\/\/ndstatic\.cdn\.bcebos\.com\/activity\/static\/js\/chunk-vendors\.+\.js$
@@ -112,7 +125,11 @@ URL-REGEX,^https:\/\/feed-image\.baidu\.com\/0\/pic\/
 DOMAIN-SUFFIX,adobe.io
 
 # Postman
-DOMAIN-SUFFIX,getpostman.com
+DOMAIN,bifrost-v4.getpostman.com
 
 #Google
 DOMAIN,adservice.google.com
+
+#Twitter
+DOMAIN,static.ads-twitter.com
+DOMAIN,dl.pstmn.io
